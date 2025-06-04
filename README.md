@@ -7,7 +7,10 @@ Análise da relação entre os gastos militares e os impactos econômicos nas na
 
 🧠 Este projeto tem como objetivo investigar como os gastos militares influenciam o crescimento econômico dos países ao longo do tempo. A análise é fundamentada em:
 
-Dados do [SIPRI Military Expenditure Database](https://www.sipri.org/databases/milex)
+Fontes dos dados:
+
+[FMI](https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(6.0.0)&INDICATOR=NGDP_RPCH)
+[World Population Review](https://worldpopulationreview.com/country-rankings/military-spending-by-country)
 
 Artigos com conclusões divergentes:
 

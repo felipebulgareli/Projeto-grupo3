@@ -10,7 +10,7 @@ Análise da relação entre os gastos militares e os impactos econômicos nas na
 Fontes dos dados:
 
 [FMI](https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(6.0.0)&INDICATOR=NGDP_RPCH)
-[World Population Review](https://worldpopulationreview.com/country-rankings/military-spending-by-country)
+[SIPRI](https://milex.sipri.org/sipri)
 
 Artigos com conclusões divergentes:
 
